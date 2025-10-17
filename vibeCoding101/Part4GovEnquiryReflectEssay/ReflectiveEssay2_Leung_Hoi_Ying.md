@@ -12,4 +12,4 @@ I learned that Hong Kong provides useful open datasets but more granular program
 
 ## Conclusion
 
-Access to government data will strengthen our analysis by providing district-level participation and program performance metrics. If requests are denied, I will use public datasets, targeted field surveys and case studies as backups. The exercise reinforced that careful enquiry design and access to granular data are central to evidence-based policymaking.
+Access to these government datasets will enable us to comprehensively evaluate Hong Kong's current food waste recycling scheme and benchmark its performance against international standards. Furthermore, my team can use this baseline data to simulate how the implementation of the Municipal Solid Waste Charging Scheme might influence participation rates in food waste recycling programs. If our data requests are denied, we will rely on public datasets and case studies, though this would limit our simulation's accuracy. This exercise highlighted how precise data collection supports evidence-based policy analysis and future program planning.
